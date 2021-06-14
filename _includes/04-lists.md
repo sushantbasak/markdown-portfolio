@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Hello World
+* CF
+  * Problem-set 📑
+  * Rating 🥇
+  * Friends 🧔
+
+- Codechef
+  - Unacademy
+  - Long Challenge
